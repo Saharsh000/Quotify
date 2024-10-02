@@ -18,7 +18,7 @@ Quotify is a motivational bot designed to bring daily encouragement and quotes r
 - **Human Feeling Detector**: To detect the emotions or feelings of the user, and reply with something according to the situation.
 
 
-#Current Status 📊
+# Current Status 📊
 - I am currently not coding the bot because I have other work to do.
 - I assure that if I have time, I'll update the code and make the bot online and worldwide.
 - I just need time as I have school.
