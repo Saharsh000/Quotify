@@ -10,7 +10,6 @@ Quotify is a motivational bot designed to bring daily encouragement and quotes r
   - `.encourage`: Get an encouraging message when you need it.
 
 # Coming Soon 🔜
-- **Random Embed Colors**: To make every quote or encouragement message  embedded with a random color.
 - **Emotion-Based Responses**: To get input from user who typed out their feelings, and reply with something which is cheerful.
 - **Server-Specific Configuration**: Admins or users with Manage Permissions can configure the bot for their server.
 - **Slash Commands**: To change the pre-existing commands to slash commands.
